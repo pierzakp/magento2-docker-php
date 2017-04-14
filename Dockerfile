@@ -1,4 +1,4 @@
-FROM mageinferno/magento2-php:7.0-fpm-1
+FROM mageinferno/magento2-php:5.6-fpm-1
 
 MAINTAINER Piotr Pierzak piotrek.pierzak@gmail.com
 
